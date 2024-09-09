@@ -94,7 +94,7 @@ screen -S Rainbow
 # CTRL A D ÇIKIŞ
 ```
 
-> nano `nano ./identity/principal.json` komutu ile [explorer](https://testnet.rainbowprotocol.xyz/explorer) girip submit ediyoruz
+> nano `nano ~/btc_testnet4/rbo_indexer_testnet/identity/principal.json` komutu ile [explorer](https://testnet.rainbowprotocol.xyz/explorer) girip submit ediyoruz
 
 
 <img width="437" alt="Ekran Resmi 2024-09-08 22 14 56" src="https://github.com/user-attachments/assets/b71c6f71-0a8f-42d7-83d8-6a6024841334">
